@@ -1,12 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page
-title: Under Construction
+title: Index
 ---
 
-Site under construction.
+{% for post in site.posts %}
 
-Will be live on the 21/Feb/2020.
+[{{ post.title }}]({{ post.url }})
 
+{% endfor %}

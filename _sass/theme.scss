@@ -1,0 +1,37 @@
+body {
+    padding:10px 0 20px 0px;
+    margin: 0px;
+    font:14px/1.5 "Consolas";
+    color:#d8d8d8;
+    font-weight: normal;
+    background: #192837;
+    background-attachment: fixed !important;
+}
+
+.header {
+  max-width: 680px;
+  margin: 0 auto;
+  position: relative;
+  padding: 0 20px;
+}
+
+.wrapper {
+    max-width: 680px;
+    margin: 0 auto;
+    position: relative;
+    padding: 0 20px;
+}
+
+table {
+  width: 100%;
+}
+
+a {
+  color:#3c6e96;
+  font-weight:400;
+  text-decoration:none;
+  border: 10px;
+  &:hover {
+    color: #cdffff;
+  }
+}

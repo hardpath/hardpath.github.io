@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<h2>{{ page.title }}</h2>
+
+<p>
+    {{ page.date | date_to_string }}
+    {% assign area = site.areas | where: 'short_name', page.categories | first %}
+    {% if author %}
+      - <a href="{{ author.url }}">{{ author.name }}</a>
+    {% endif %}
+  </p>
+
+{{ content }}

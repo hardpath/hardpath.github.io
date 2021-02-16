@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: Operational Technology
+  link: /posts_ot.html
+- name: Cybersecurity
+  link: /posts_cyber.html
+- name: Lifestyle
+  link: /posts_ls.html
+- name: About
+  link: /about.html

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ site.title }}</title>
+        <link rel="stylesheet" href="/assets/css/styles.css">
+    </head>
+
+    <body>
+        {% for item in site.data.settings %}
+            {% if item.name == "underc" and item.value == true %}
+                <div class="wrapper">
+                    <h3>Site under construction</h3>
+                    <p>Will be live on the 21/Feb/2021.</p>
+                </div>
+            
+            {% else if item.name == "underc" and item.value == false %}
+                <div class="header">
+                    {% include navigation.html %}
+                </div>
+
+                <div class="wrapper">
+                    {{ content }}
+                </div>
+            {% endif %}
+        {% endfor %}
+    </body>
+</html>
