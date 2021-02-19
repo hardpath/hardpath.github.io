@@ -1,7 +1,8 @@
 body {
     padding:10px 0 20px 0px;
     margin: 0px;
-    font-family: "Consolas", monospace, "Courier New";
+    font-family: "Helvetica", "Tahoma", "Verdana";
+    font-size: 11pt;
     line-height: 150%;
     color:#d8d8d8;
     background: #192837;
@@ -40,9 +41,30 @@ a.nav {
   color:#3c6e96;
   font-weight: bold;
   font-size: 120%;
+  letter-spacing: 1px;
   text-decoration:none;
   border: 10px;
   &:hover {
     color: #cdffff;
   }
+}
+
+div.footnotes {
+  font-size: 75%;
+  line-height: 100%;
+}
+
+code.language-plaintext {
+  color: #c9a950;
+  font-weight: bold;
+}
+
+td.technote {
+  font-size: 75%;
+  text-align: right;
+  line-height: 130%;
+}
+
+td.pdficon {
+  text-align: right;
 }
