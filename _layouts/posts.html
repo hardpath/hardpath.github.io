@@ -1,14 +1,22 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-
-<p>
-    {{ page.date | date_to_string }}
-    {% assign area = site.areas | where: 'short_name', page.categories | first %}
-    {% if author %}
-      - <a href="{{ author.url }}">{{ author.name }}</a>
-    {% endif %}
-  </p>
+<div>
+  <table>
+    <tr>
+      <td>
+        <h2>{{ page.title }}</h2>
+        {{ page.date | date_to_string }}
+      </td>
+      <td>
+        {{ page.tn_ref }}<br>
+        rev {{ page.tn_rev }}
+      </td>
+      <td>
+        <a href="/assets/technotes/{{ page.tn_ref }}_rev{{ page.tn_rev }}.pdf"><img src="/assets/images/generic/pdf.png"></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 {{ content }}

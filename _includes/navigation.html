@@ -1,6 +1,8 @@
 <nav>
-  {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" {% if page.url == item.link %}{% endif %}>{{ item.name }}</a> | 
-  {% endfor %}
+  <a class="nav" href="/">Home</a> |
+  <a class="nav" href="/posts_ot.html">Operational Technology</a> |
+  <a class="nav" href="/posts_cyber.html">Cybersecurity</a> |
+  <a class="nav" href="/posts_ls.html">Lifstyle</a> |
+  <a class="nav" href="/about.html">About</a>
   <hr>
-  </nav>
+</nav>
