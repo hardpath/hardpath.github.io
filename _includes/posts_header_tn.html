@@ -1,0 +1,15 @@
+<table>
+  <tr>
+    <td>
+      <h2>{{ page.title }}</h2>
+      {{ page.date | date_to_string }}
+    </td>
+    <td class="technote">
+      {{ page.tn_ref }}<br>
+      rev {{ page.tn_rev }}
+    </td>
+    <td class=pdficon>
+      <a href="/assets/technotes/{{ page.tn_ref }}_rev{{ page.tn_rev }}.pdf"><img src="/assets/images/generic/pdf.png"></a>
+    </td>
+  </tr>
+</table>

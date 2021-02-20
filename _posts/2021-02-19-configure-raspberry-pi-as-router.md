@@ -2,8 +2,12 @@
 title: "Configure a Raspberry Pi as a Router"
 date: 2021-02-19 10:00:00 +0000
 categories: cyber
+header: tn
+folder: "2021-02-19-configure-raspberry-pi-as-router"
 tn_ref: TN2155002
 tn_rev: "01"
+abstract: >
+  Configure a Raspberry Pi as a wired and wireless router.
 ---
 ## 1 INTRODUCTION
 

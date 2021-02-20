@@ -2,8 +2,13 @@
 title: "Basic Configuration of a Raspberry Pi"
 date: 2021-02-16 00:00:00 +0000
 categories: cyber
+header: tn
+folder: "2021-02-16-basic-configuration-raspberry-pi"
 tn_ref: TN2155001
 tn_rev: "01"
+abstract: >
+  Steps to set up a Raspberry Pi with a basic configuration
+  which can then be used for different purposes.
 ---
 ## 1 INTRODUCTION
 

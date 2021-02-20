@@ -1,0 +1,20 @@
+<tr>
+    <td class="post_title">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </td>
+    <td rowspan="2" style="width: 10px">
+    </td>
+    <td rowspan="2" style="width: 202px">
+        <a href="{{ post.url }}"><img src="/assets/images/posts/{{ post.folder }}/img0000.png"></a>
+    </td>
+</tr>
+<tr style="height: 80px; vertical-align: top;">
+    <td>
+        <p class="post_abstract">{{ post.abstract }}</p>
+        <p class="post_date">{{ post.date | date_to_string }}</p>
+    </td>
+</tr>
+<tr style="height: 20px;">
+    <td colspan="2">
+    </td>
+</tr>

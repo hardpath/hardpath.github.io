@@ -1,9 +1,6 @@
----
-title: Index
----
+<table>
+    {% for post in site.posts %}
+        {% include post_entry.html %}
+    {% endfor %}
+</table>
 
-{% for post in site.posts %}
-
-[{{ post.title }}]({{ post.url }})
-
-{% endfor %}

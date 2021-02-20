@@ -1,0 +1,52 @@
+td.nav {
+  width: 1%;
+  white-space: nowrap;
+}
+
+td.nav_space {
+  width: 10px;
+}
+
+a.nav {
+  color:#3c6e96;
+  font-weight: bold;
+  font-size: 110%;
+  letter-spacing: 1px;
+  text-decoration:none;
+  border: 10px;
+  &:hover {
+    color: #cdffff;
+  }
+}
+
+td.technote {
+  font-size: 75%;
+  text-align: right;
+  line-height: 130%;
+}
+
+td.pdficon {
+  text-align: right;
+}
+
+// Post lists
+
+td.post_title {
+  font-size: 115%;
+  vertical-align: top;
+}
+
+p.post_abstract {
+  font-size: 90%;
+  font-style: italic;
+  vertical-align: top;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+p.post_date {
+  font-size: 70%;
+  vertical-align: top;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}

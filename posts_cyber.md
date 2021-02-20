@@ -1,9 +1,8 @@
----
-title: Cybersecurity
----
+<table>
+    {% for post in site.posts %}
+    {% if post.categories contains "cyber" %}
+        {% include post_entry.html %}
+    {% endif %}
+    {% endfor %}
+</table>
 
-{% for post in site.posts %}
-{% if post.categories contains "cyber" %}
-[{{ post.title }}]({{ post.url }})
-{% endif %}
-{% endfor %}
