@@ -1,6 +1,8 @@
 <table>
     {% for post in site.posts %}
-        {% include post_entry.html %}
+        {% unless post.categories contains "portfolio" %}
+            {% include post_entry.html %}
+        {% endunless %}
     {% endfor %}
 </table>
 

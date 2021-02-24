@@ -1,0 +1,28 @@
+---
+title: About
+---
+
+<div>
+    {% include about.html %}    
+</div>
+
+<hr style="margin-top: 20px; margin-bottom: 20px;">
+
+<div>
+    <a href="about_ct.html"><h2>Competencies & Tools</h2></a>
+</div>
+
+<hr style="margin-top: 20px; margin-bottom: 20px;">
+
+<div>
+    <h2>Past Projects</h2>
+    <table>
+        {% for post in site.posts %}
+            {% if post.categories contains "portfolio" %}
+                {% include post_entry.html %}
+            {% endif %}
+        {% endfor %}
+    </table>
+</div>
+
+
