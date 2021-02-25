@@ -22,3 +22,4 @@ A standard SCADA platform was used but highly customised to meet the operational
 
 This project also included the cybersecurity aspects, covering all configurable and programmable devices to the SCADA server deployment and Ethernet infrastructure.
 
+[MJR partnership with RED](https://www.redengineers.co.uk/news/)
