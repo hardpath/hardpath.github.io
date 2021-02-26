@@ -18,4 +18,4 @@ This project was deployed using the MAP-OE Integrated Machinery Automation & Con
 
 Redundant serves support a SCADA infrastructure involving three control locations (Bridge, Engine Control Room, and Cargo Control Room), each equipped with a PC-based operating station (desktop PC and Panel - touchscreen - PC). All SCADA machines are interconnected in an Ethernet ring which also includes the redundant PLCs.
 
-[MJR: Stena Line Ballast System Controls Replacement](https://www.mjrpower.com/projects/stena-line-ballast-system-controls-replacement/)
+<a href="https://www.mjrpower.com/projects/stena-line-ballast-system-controls-replacement/" target="_blank">MJR: Stena Line Ballast System Controls Replacement</a>

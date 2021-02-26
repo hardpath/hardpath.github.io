@@ -18,4 +18,4 @@ The two independent PLCs also managed three control locations and were supervise
 
 The project involved produced all the documentation (FDS, Test Procedures, Failure Modes analysis, etc.) for Class approval.
 
-[MJR: SV Corystes Propulsion System Upgrade](https://www.mjrpower.com/projects/sv-corystes-propulsion-system-upgrade/)
+<a href="https://www.mjrpower.com/projects/sv-corystes-propulsion-system-upgrade/" target="_blank">MJR: SV Corystes Propulsion System Upgrade</a>

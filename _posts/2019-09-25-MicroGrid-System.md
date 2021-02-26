@@ -21,5 +21,4 @@ Due to the innovative nature of the solution, the power management algorithm dev
 
 Aspects like power regeneration, the voltage drop on the umbilical cable, and generator excitation were extensively researched, and inherent technical challenges were surpassed before deploying in the full-scale system.
 
-[MJR: 500kW Micro-grid Power Conversion System](https://www.mjrpower.com/projects/500kw-micro-grid-power-conversion-system/)
-
+<a href="https://www.mjrpower.com/projects/500kw-micro-grid-power-conversion-system/" target="_blank">MJR: 500kW Micro-grid Power Conversion System</a>

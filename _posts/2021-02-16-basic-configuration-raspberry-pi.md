@@ -272,15 +272,15 @@ Before removing the USB device, it needs to be unmounted. For that, use the foll
 
 ## 7 USEFUL LINKS
 
-[Operating System (disk images)](https://www.raspberrypi.org/software/operating-systems/)
+<a href="https://www.raspberrypi.org/software/operating-systems/" target="_blank">Operating System (disk images)</a>
 
-[Rufus](https://rufus.ie/)
+<a href="https://rufus.ie/" target="_blank">Rufus</a>
 
-[Configuration Guides](https://www.raspberrypi.org/documentation/configuration/)
+<a href="https://www.raspberrypi.org/documentation/configuration/" target="_blank">Configuration Guides</a>
 
-[Classless Inter-Domain Routing - Wikipedia](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#Subnet_masks)
+<a href="https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#Subnet_masks" target="_blank">Classless Inter-Domain Routing - Wikipedia</a>
 
-[List of WLAN channels - Wikipedia](https://en.wikipedia.org/wiki/List_of_WLAN_channels)
+<a href="https://en.wikipedia.org/wiki/List_of_WLAN_channels" target="_blank">List of WLAN channels - Wikipedia</a>
 
 ---
 

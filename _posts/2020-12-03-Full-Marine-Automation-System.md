@@ -25,4 +25,4 @@ It was developed an advanced power management algorithm that, in conjunction wit
 
 The entire system is controlled and supervised by the MAP-OE platform and involves PC-based operating stations in three locations.
 
-[MJR: Heortnesse Dredger Life Extension Project](https://www.mjrpower.com/projects/heoetnesse-dredger-life-extension-project/)
+<a href="https://www.mjrpower.com/projects/heoetnesse-dredger-life-extension-project/" target="_blank">MJR: Heortnesse Dredger Life Extension Project</a>
