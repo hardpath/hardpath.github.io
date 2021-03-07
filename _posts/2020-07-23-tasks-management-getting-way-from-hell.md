@@ -2,7 +2,6 @@
 title: "Tasks Management – Getting Away From Hell"
 date: 2020-07-23 00:00:00 +0000
 categories: lifestyle
-header: img
 folder: "2020-07-23-tasks-management-getting-way-from-hell"
 tn_ref: ""
 tn_rev: ""

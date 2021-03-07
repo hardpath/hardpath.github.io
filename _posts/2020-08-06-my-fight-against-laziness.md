@@ -2,7 +2,6 @@
 title: "My Fight Against Laziness"
 date: 2020-08-06 00:00:00 +0000
 categories: lifestyle
-header: img
 folder: "2020-08-06-my-fight-against-laziness"
 tn_ref: ""
 tn_rev: ""

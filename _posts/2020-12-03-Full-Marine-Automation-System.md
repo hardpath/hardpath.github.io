@@ -2,7 +2,6 @@
 title: "Full Marine Automaton System"
 date: 2020-12-03 00:00:00 +0000
 categories: portfolio
-header: img
 folder: "2020-12-03-full-marine-automation-system"
 tn_ref: ""
 tn_rev: ""

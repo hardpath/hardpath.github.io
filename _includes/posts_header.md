@@ -1,5 +1,5 @@
-{% if page.header == "tn" %}
+{% if page.tn_ref != "" and page.tn_ref != null %}
     {% include posts_header_tn.html %}
-{% elsif page.header == "img" %}
+{% else %}
     {% include posts_header_img.html %}
 {% endif %}

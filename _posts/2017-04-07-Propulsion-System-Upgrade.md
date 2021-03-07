@@ -2,7 +2,6 @@
 title: "Propulsion System Upgrade"
 date: 2017-04-07 00:00:00 +0000
 categories: portfolio
-header: img
 folder: "2017-04-07-propulsion-system-upgrade"
 tn_ref: ""
 tn_rev: ""

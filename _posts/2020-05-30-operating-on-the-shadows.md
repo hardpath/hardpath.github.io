@@ -2,7 +2,6 @@
 title: "Operating In The Shadows"
 date: 2020-05-30 00:00:00 +0000
 categories: ot
-header: img
 folder: "2020-05-30-operating-on-the-shadows"
 tn_ref: ""
 tn_rev: ""

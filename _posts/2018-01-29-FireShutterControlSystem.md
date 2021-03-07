@@ -2,7 +2,6 @@
 title: "Fire Shutter Control System"
 date: 2018-01-20 00:00:00 +0000
 categories: portfolio
-header: img
 folder: "2018-01-29-fire-shutter-control-system"
 tn_ref: ""
 tn_rev: ""

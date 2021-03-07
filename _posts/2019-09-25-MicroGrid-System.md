@@ -2,7 +2,6 @@
 title: "Micro-Grid System"
 date: 2019-09-25 00:00:00 +0000
 categories: portfolio
-header: img
 folder: "2019-09-25-microgrid-system"
 tn_ref: ""
 tn_rev: ""

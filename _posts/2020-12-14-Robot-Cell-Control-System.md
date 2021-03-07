@@ -2,7 +2,6 @@
 title: "Robot Cell Control System"
 date: 2020-12-14 00:00:00 +0000
 categories: portfolio
-header: img
 folder: "2020-12-14-robot-cell-control-system"
 tn_ref: ""
 tn_rev: ""

@@ -2,7 +2,6 @@
 title: "Ballast Control System"
 date: 2021-01-27 00:00:00 +0000
 categories: portfolio
-header: img
 folder: "2021-01-27-ballast-control-system"
 tn_ref: ""
 tn_rev: ""
