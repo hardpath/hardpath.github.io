@@ -6,7 +6,7 @@ folder: "2020-05-30-operating-on-the-shadows"
 tn_ref: ""
 tn_rev: ""
 abstract: >
-  A brief text regarding an elite group of professionals that usually operates in industrial environments.
+  A brief text regarding an elite group of professionals that operates in industrial environments.
 ---
 There is an elite group of professionals that usually operates in industrial environments, dealing with machinery that ranges from simple machines that handle pills to heavy-duty equipment that handles tonnes.
 
