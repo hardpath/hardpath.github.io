@@ -2,7 +2,7 @@ body {
     padding:10px 0 20px 0px;
     margin: 0px;
     font-family: "Helvetica", "Tahoma", "Sans-Serif";
-    font-size: 11pt;
+    font-size: 14pt;
     line-height: 150%;
     color:#d8d8d8;
     background: #192837;
@@ -10,14 +10,14 @@ body {
 }
 
 .header {
-  max-width: 800px;
+  max-width: 1000px;
   margin: 0 auto;
   position: relative;
   padding: 0 20px;
 }
 
 .wrapper {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
     position: relative;
     padding: 0 20px;
@@ -28,12 +28,12 @@ table {
 }
 
 a {
-  color: #bb6600;
+  color: #e29e21;
   font-weight: bold;
   text-decoration: none;
   border: 10px;
   &:hover {
-    color: #cdffff;
+    color: #ffeccb;
   }
 }
 

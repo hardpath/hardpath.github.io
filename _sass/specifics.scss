@@ -4,7 +4,7 @@ td.nav {
 }
 
 td.nav_space {
-  width: 10px;
+  width: 18px;
 }
 
 a.nav {
@@ -13,9 +13,16 @@ a.nav {
   letter-spacing: 1px;
   text-decoration:none;
   border: 10px;
-  &:hover {
-    color: #cdffff;
-  }
+}
+
+td.section {
+  color: #ffeccb;
+  font-weight: bold;
+  font-size: 120%;
+  text-align: right;
+  //border-bottom: solid 1px #ffeccb;
+  padding-right: 16px;
+  padding-bottom: 8px;
 }
 
 td.technote {
