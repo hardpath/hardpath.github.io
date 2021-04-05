@@ -60,21 +60,26 @@ and the functionality described above.
 
 ![Overview](/assets/images/posts/2021-04-05-2fa-for-industrial-control-systems/img0301.png)
 
-The table below details the functionalities associated with each connection.
+The functionalities associated with each connection are detailed next.
 
 1. The safety signal will only be active if a key fob is inserted in the Operating Mode Selector.
 
-2. The Operating Mode Selector transmits the key fob ID to the PLC, which will then relay that information to the HMI (see connection 3).
+2. The Operating Mode Selector transmits the key fob ID to the PLC, which will then relay that information to the HMI
+(see connection 3).
 
-3. The HMI retrieves the key fob ID is collected by, or the SCADA sends the user ID to the PLC, depending on the selected approach for the user – key fob association (see Section 3.2).
+3. The HMI retrieves the key fob ID is collected by, or the SCADA sends the user ID to the PLC, depending on the
+selected approach for the user – key fob association (see Section 3.2).
 
-4. The Reset signal is activated by the PLC only when a logged-in user with the assigned key fob inserted issues a reset command.
+4. The Reset signal is activated by the PLC only when a logged-in user with the assigned key fob inserted issues a
+reset command.
 
 5. Same as connection 4, but using a Fieldbus connection between the PLC and the Safety Controller.
 
 6. The Safety contactors will be energised if a key fob is inserted and after the reset command is received.
 
-7. The control signal to the actuator is activated by the user using the HMI or any trigger signal connected to the PLC; for additional security, this control signal can be subjected to the same constraints as the Reset signal (see connection 4).
+7. The control signal to the actuator is activated by the user using the HMI or any trigger signal connected to the
+PLC; for additional security, this control signal can be subjected to the same constraints as the Reset signal (see
+connection 4).
 
 ### 3.1	User Credentials
 
