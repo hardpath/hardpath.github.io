@@ -1,7 +1,7 @@
 ---
 title: "Two-Factor Authentication for Industrial Control Systems"
 date: 2021-04-05 10:00:00 +0000
-categories: ot
+categories: ot cyber
 folder: "2021-04-05-2fa-for-industrial-control-systems"
 tn_ref: TN2155004
 tn_rev: "01"
