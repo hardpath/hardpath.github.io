@@ -1,0 +1,11 @@
+- term : "1"
+  desc : "Loss of functionality; 'Low Low' or 'High High' limit reached."
+
+- term : "2"
+  desc : "Eminent loss of functionality; 'Low' or 'High' limit reached."
+
+- term : "3"
+  desc : "No immediate effect on functionality."
+
+- term : "4"
+  desc : "Information only (aknowledge might not be requried)"

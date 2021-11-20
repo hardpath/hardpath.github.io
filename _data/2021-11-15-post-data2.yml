@@ -1,0 +1,11 @@
+- term : "Emergency alarm"
+  desc : "Immediate danger to human life or to the ship and its machinery exists and that immediate action should be taken."
+
+- term : "Alarm"
+  desc : "Condition requiring immediate attention and action, to maintain the safe navigation and operation of the ship."
+
+- term : "Warning"
+  desc : "Condition requiring no immediate attention or action. Warnings are presented for precautionary reasons to bring awareness of changed conditions which are not immediately hazardous, but may become so if no action is taken."
+
+- term : "Caution"
+  desc : "Awareness of a condition which does not warrant an alarm or warning condition, but still requires attention out of the ordinary consideration of the situation or of given information."

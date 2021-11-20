@@ -15,6 +15,46 @@ a.nav {
   border: 10px;
 }
 
+table.definitions {
+  font-size: 85%;
+  border-collapse: collapse;
+}
+
+tr.definitions {
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+
+th.definitions {
+  text-align: left;
+  background-color: gray;
+}
+
+table.post {
+  border: 1px solid gray;
+  border-collapse: collapse;
+  font-size: 85%;
+}
+
+th.post {
+  text-align: left;
+  border: 1px solid gray;
+  background-color: gray;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+td.post {
+  text-align: left;
+  border: 1px solid gray;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
 td.section {
   color: #ffeccb;
   font-weight: bold;

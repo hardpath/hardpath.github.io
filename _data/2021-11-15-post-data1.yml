@@ -1,0 +1,47 @@
+- term : "acknowledge"
+  desc : "Operator action that confirms recognition of an alarm."
+
+- term : "active"
+  desc : "Alarm in a state in which the alarm condition is true."
+
+- term : "alarm"
+  desc : "Audible and/or visible means of indicating to the operator an equipment malfunction, process deviation, or abnormal condition requiring a timely response."
+
+- term : "alarm group"
+  desc : "Set of alarms with common association (e.g., process unit, process area, equipment set, or service)."
+
+- term : "alarm message"
+  desc : "Text string displayed with the alarm indication that provides additional information to the operator (e.g., operator action)."
+
+- term : "alarm off-delay"
+  desc : "Time a process measurement remains in the normal state before the alarm becomes inactive."
+
+- term : "alarm on-delay"
+  desc : "Time a process measurement remains in the alarm state before the alarm is annunciated."
+
+- term : "alarm priority"
+  desc : "Relative importance assigned to an alarm within the alarm system to indicate the urgency of response (e.g., seriousness of consequences and allowable response time)."
+
+- term : "alarm setpoint"
+  desc : "Threshold value of a process variable or discrete state that triggers the alarm indication."
+
+- term : "alarm system"
+  desc : "Operator support system for generating and handling alarms for managing abnormal situations."
+
+- term : "first-out alarm"
+  desc : "Alarm determined (i.e., by first-out logic) to be the first in a multiple-alarm scenario."
+
+- term : "latching alarm"
+  desc : "Alarm that remains in alarm state after the process condition has returned to normal and requires an operator reset before the alarm returns to normal."
+
+- term : "reset"
+  desc : "Operator action that terminates the audible alarm indication."
+
+- tern : "silence"
+  desc : "Operator action that unlatches a latched alarm."
+
+- term : "suppress"
+  desc : "Prevent the annunciation of the alarm to the operator when the alarm is active."
+
+- term : "unacknowledged"
+  desc : "Alarm state in which the operator has not yet confirmed recognition of an alarm indication."
