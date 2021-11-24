@@ -11,7 +11,7 @@ abstract: >
 ## 1 INTRODUCTION
 
 This document describes the basic functionalities associated with how the
-alarms are managed on an Alarm System. At the time of writing, most of the
+alarms are managed on an Alarm System. At the time of writing, most of my
 active and recent projects were in the marine and offshore environment. For
 that reason, the information presented in this note is influenced by the
 standards applied in such environments.
@@ -72,10 +72,10 @@ a process, the other is associated with an operator action.
 
 ![states](/assets/images/posts/2021-11-15-introduction-to-alarm-management/img0301.png)
 
-An Alarm System reacts to those transitions, also called events. An alarm list
-displays or changes the information to the operator whenever one of those
+An Alarm System reacts to the transitions between states, also called events.
+An alarm display changes the information to the operator whenever one of those
 transitions, or events, occur. Each event has a timestamp associated, and that
-is the timestamp shown to the user on any alarm list.
+is the timestamp shown to the user on any alarm display.
 
 ### 3.1 Active State
 
@@ -83,9 +83,9 @@ As mentioned, the alarm state is directly related to the state of the process,
 i.e., to the condition (e.g., temperature, pressure, contact state, etc.) that
 activates the alarm. Therefore, the alarm will be active only when the process condition is abnormal.
 
-An exception to the above is the latched alarm. As the Definitions section
-mentions, a latched alarm becomes active when the process becomes abnormal but
-only returns to the not active state after an operator reset.
+An exception to the above is the latched alarm. As mentioned in the the
+Definitions section, a latched alarm becomes active when the process becomes
+abnormal but only returns to the not active state after an operator reset.
 
 ### 3.2 Acknowledge State
 
@@ -114,7 +114,7 @@ The requirement that the acknowledge functionality must only acknowledge the
 alarms presented to the operator is simpler to comply with if the acknowledge
 function is performed where the alarms are presented, i.e., the computer or
 graphical console. Having a physical button to acknowledge the alarms usually
-implies an alarm list (typically an alarm banner 5 ) to be permanently
+implies an alarm list (typically an alarm banner[^5] ) to be permanently
 presented to the operator, and only the alarms visible on that list or the top
 one will be acknowledged.
 
@@ -133,7 +133,7 @@ button exists on each location. The scope of the silence functionality
 associated with each location, i.e., if it only silences the audible signal on
 that location or in all locations, will depend on the Client requirements or
 how far those locations are from each other. However, in paragraph 2.3.8 of
-Lloyd's Rukes[^4], is stated “*Acknowledgement of alarms at positions outside a
+Lloyd's Rules[^4], is stated “*Acknowledgement of alarms at positions outside a
 machinery space is not to silence the audible signal or extinguish the visual
 indication in that machinery space.*”
 
@@ -220,3 +220,4 @@ The table below  presents an implementation suggestion.
 
 [^4]: Rules and Regulations for the Classification of Ships, Lloyd’s Register, July 2021
 
+[^5]: Alarm list with a limited number and most recent alarms.
