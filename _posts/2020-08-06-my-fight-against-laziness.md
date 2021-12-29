@@ -8,6 +8,7 @@ tn_rev: ""
 abstract: >
   The fight against laziness used to be the only fight I had on a daily basis.
 ---
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Z8Z37OFYG');kofiwidget2.draw();</script> 
 
 The fight against laziness used to be the only fight I had on a daily basis.
 

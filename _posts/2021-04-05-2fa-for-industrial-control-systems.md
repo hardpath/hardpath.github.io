@@ -8,6 +8,8 @@ tn_rev: "01"
 abstract: >
   Two-Factor Authentication for Industrial Control Systems
 ---
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Z8Z37OFYG');kofiwidget2.draw();</script> 
+
 ## 1 INTRODUCTION
 
 Two-factor authentication (2FA), or more generically, multi-factor authentication (MFA), has proven to be an effective

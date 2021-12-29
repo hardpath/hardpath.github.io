@@ -8,6 +8,8 @@ tn_rev: "01"
 abstract: >
   Configure a Raspberry Pi as a wired and wireless router.
 ---
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Z8Z37OFYG');kofiwidget2.draw();</script> 
+
 ## 1 INTRODUCTION
 
 This document describes the steps to configure a Raspberry Pi as a wired and wireless router.

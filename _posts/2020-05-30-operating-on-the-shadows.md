@@ -8,6 +8,8 @@ tn_rev: ""
 abstract: >
   A brief text regarding an elite group of professionals that operates in industrial environments.
 ---
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Z8Z37OFYG');kofiwidget2.draw();</script> 
+
 There is an elite group of professionals that usually operates in industrial environments, dealing with machinery that ranges from simple machines that handle pills to heavy-duty equipment that handles tonnes.
 
 They can be deployed to extreme environments, like research facilities above the polar circle, a production plant in the middle of a tropical jungle, or an oil refinery in a conflict-affected country in the Middle East.
