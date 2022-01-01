@@ -10,8 +10,6 @@ abstract: >
 ---
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Z8Z37OFYG');kofiwidget2.draw();</script> 
 
-## 1 INTRODUCTION
-
 This video describes how to set up a firewall on a Virtual Machine. This is
 particularly useful not only to gain awareness of firewall functionalities but
 also to have a firewall on development and test environments using Virtual
