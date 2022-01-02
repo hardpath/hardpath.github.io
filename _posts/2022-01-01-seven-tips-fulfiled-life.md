@@ -21,7 +21,7 @@ you will find strength in who you are and what really matters to you.
 
 ### 2 Have a Focused Vision for Your Life
 I agree with the saying, "it's not about the destination; it's about the
-journey". However, it will be disappointing, to sahttps://twitter.com/jordanbpetersony the least, to live with joy
+journey". However, it will be disappointing, to say the least, to live with joy
 and end up in a place of misery. So, find where you want to go and be ferocious
 in pursuing that path.
 
