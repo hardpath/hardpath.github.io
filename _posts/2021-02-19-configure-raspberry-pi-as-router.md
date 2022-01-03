@@ -8,7 +8,23 @@ tn_rev: "01"
 abstract: >
   Configure a Raspberry Pi as a wired and wireless router.
 ---
+<table style="width:35%">
+  <tr>
+    <td style="vertical-align:bottom">
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Z8Z37OFYG');kofiwidget2.draw();</script> 
+    </td>
+    <td style="vertical-align:bottom">
+<a class="twitter-share-button"
+href="https://twitter.com/intent/tweet?text=Configure%20a%20Raspberry%20Pi%20as%20a%20Router&url=https://hardpath.co.uk/cyber/2021/02/19/configure-raspberry-pi-as-router.html">
+<img src="/assets/images/generic/tweet.png"></a>
+    </td>
+    <td style="vertical-align:bottom">
+<a href="http://www.linkedin.com/shareArticle?url=https://hardpath.co.uk/cyber/2021/02/19/configure-raspberry-pi-as-router.html">
+<img src="/assets/images/generic/linkedinshare.png">
+</a>    
+    </td>
+  </tr>
+</table>
 
 ## 1 INTRODUCTION
 
