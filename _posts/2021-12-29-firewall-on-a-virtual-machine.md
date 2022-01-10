@@ -19,7 +19,7 @@ href="https://twitter.com/intent/tweet?text=Firewall%20on%20a%20Virtual%20Machin
 <img src="/assets/images/generic/tweet.png"></a>
     </td>
     <td style="vertical-align:bottom">
-<a href="http://www.linkedin.com/shareArticle?url=https://hardpath.co.uk/lifestyle/2022/01/01/seven-tips-fulfiled-life.html">
+<a href="http://www.linkedin.com/shareArticle?url=https://hardpath.co.uk/cyber/2021/12/29/firewall-on-a-virtual-machine.html">
 <img src="/assets/images/generic/linkedinshare.png">
 </a>    
     </td>
