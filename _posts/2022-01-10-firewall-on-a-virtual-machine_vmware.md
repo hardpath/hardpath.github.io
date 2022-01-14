@@ -26,7 +26,7 @@ href="https://twitter.com/intent/tweet?text=Firewall%20on%20a%20Virtual%20Machin
   </tr>
 </table>
 
-This video describes how to set up a firewall on a Virtual Machine usign VMWare
+This video describes how to set up a firewall on a Virtual Machine using VMWare
 Workstation. This is particularly useful not only to gain awareness of firewall
 functionalities but also to have a firewall on development and test
 environments using Virtual Machines.
