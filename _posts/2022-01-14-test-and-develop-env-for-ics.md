@@ -13,16 +13,6 @@ abstract: >
     <td style="vertical-align:bottom">
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Z8Z37OFYG');kofiwidget2.draw();</script> 
     </td>
-    <td style="vertical-align:bottom">
-<a class="twitter-share-button"
-href="https://twitter.com/intent/tweet?text=Test%20and%20Development%20Environment%20for%20ICS&url=https://hardpath.co.uk/ot/2022/01/14/test-and-develop-env-for-ics.html">
-<img src="/assets/images/generic/tweet.png"></a>
-    </td>
-    <td style="vertical-align:bottom">
-<a href="http://www.linkedin.com/shareArticle?url=https://hardpath.co.uk/ot/2022/01/14/test-and-develop-env-for-ics.html">
-<img src="/assets/images/generic/linkedinshare.png">
-</a>    
-    </td>
   </tr>
 </table>
 

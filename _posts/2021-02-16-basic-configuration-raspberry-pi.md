@@ -14,16 +14,6 @@ abstract: >
     <td style="vertical-align:bottom">
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Z8Z37OFYG');kofiwidget2.draw();</script> 
     </td>
-    <td style="vertical-align:bottom">
-<a class="twitter-share-button"
-href="https://twitter.com/intent/tweet?text=Basic%20Configuration%20of%20a%20Raspberry%20Pi&url=https://hardpath.co.uk/cyber/2021/02/16/basic-configuration-raspberry-pi.html">
-<img src="/assets/images/generic/tweet.png"></a>
-    </td>
-    <td style="vertical-align:bottom">
-<a href="http://www.linkedin.com/shareArticle?url=https://hardpath.co.uk/cyber/2021/02/16/basic-configuration-raspberry-pi.html">
-<img src="/assets/images/generic/linkedinshare.png">
-</a>    
-    </td>
   </tr>
 </table>
 

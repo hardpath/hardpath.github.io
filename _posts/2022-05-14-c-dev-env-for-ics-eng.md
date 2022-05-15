@@ -13,16 +13,6 @@ abstract: >
     <td style="vertical-align:bottom">
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Z8Z37OFYG');kofiwidget2.draw();</script> 
     </td>
-    <td style="vertical-align:bottom">
-<a class="twitter-share-button"
-href="https://twitter.com/intent/tweet?text=Two-Factor%20Authentication%20for%20Industrial%20Control%20Systems&url=https://hardpath.co.uk/ot/cyber/2021/04/05/2fa-for-industrial-control-systems.html">
-<img src="/assets/images/generic/tweet.png"></a>
-    </td>
-    <td style="vertical-align:bottom">
-<a href="http://www.linkedin.com/shareArticle?url=https://hardpath.co.uk/ot/cyber/2021/04/05/2fa-for-industrial-control-systems.html">
-<img src="/assets/images/generic/linkedinshare.png">
-</a>    
-   </td>
   </tr>
 </table>
 
@@ -54,9 +44,9 @@ writing.
 
 The following software will be required:
 
-- Git (Windows and Linux)
-- MSYS2 (Windows)
-- Visual Studio Code (Windows and Linux)
+- **Git** (Windows and Linux)
+- **MSYS2** (Windows)
+- **Visual Studio Code** (Windows and Linux)
 
 ### 2.1 Git Installation (Windows and Linux)
 

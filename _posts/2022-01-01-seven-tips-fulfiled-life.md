@@ -14,16 +14,6 @@ abstract: >
     <td style="vertical-align:bottom">
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Z8Z37OFYG');kofiwidget2.draw();</script> 
     </td>
-    <td style="vertical-align:bottom">
-<a class="twitter-share-button"
-href="https://twitter.com/intent/tweet?text=Seven%20Tips%20for%20a%20Fulfiled%20Life&url=https://hardpath.co.uk/lifestyle/2022/01/01/seven-tips-fulfiled-life.html">
-<img src="/assets/images/generic/tweet.png"></a>
-    </td>
-    <td style="vertical-align:bottom">
-<a href="http://www.linkedin.com/shareArticle?url=https://hardpath.co.uk/lifestyle/2022/01/01/seven-tips-fulfiled-life.html">
-<img src="/assets/images/generic/linkedinshare.png">
-</a>    
-    </td>
   </tr>
 </table>
 

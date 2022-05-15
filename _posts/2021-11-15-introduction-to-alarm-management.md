@@ -13,16 +13,6 @@ abstract: >
     <td style="vertical-align:bottom">
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Z8Z37OFYG');kofiwidget2.draw();</script> 
     </td>
-    <td style="vertical-align:bottom">
-<a class="twitter-share-button"
-href="https://twitter.com/intent/tweet?text=Introduction%20to%20Alarm%20Management&url=https://hardpath.co.uk/ot/2021/11/15/introduction-to-alarm-management.html">
-<img src="/assets/images/generic/tweet.png"></a>
-    </td>
-    <td style="vertical-align:bottom">
-<a href="http://www.linkedin.com/shareArticle?url=https://hardpath.co.uk/ot/2021/11/15/introduction-to-alarm-management.html">
-<img src="/assets/images/generic/linkedinshare.png">
-</a>    
-    </td>
   </tr>
 </table>
 
